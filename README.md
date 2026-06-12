@@ -94,4 +94,4 @@ Was this framework useful to you? Consider [buying me a coffee](https://buymeaco
 
 # Requirements
 
-Slay the Robot is written in Godot 4.4 via GDScript, which can be downloaded from the official site [here](https://godotengine.org/download/archive/4.4-stable/).
+Slay the Robot is written in Godot 4.6 via GDScript, which can be downloaded from the official site [here](https://godotengine.org/download/archive/4.6-stable/).
